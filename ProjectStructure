@@ -1,0 +1,8 @@
+.
+├── AppDelegate.swift
+├── ChatViewController.swift
+├── Networking.swift
+├── PersistenceService.swift
+├── Message+CoreDataClass.swift
+├── Message+CoreDataProperties.swift
+└── Main.storyboard (UI elements for the chat interface)
